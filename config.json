@@ -1,3 +1,3 @@
 Console.log("PAYMENT GATEWAY INITIATED")
-Console.log("Payment done")
+Console.log("Payment  partially done")
 onsole.log("Payemet gateway upto date")
